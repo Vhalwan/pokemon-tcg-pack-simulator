@@ -1,0 +1,17 @@
+{
+  "slots": [
+    { "key": "Common",       "count": 4, "prob": 1.0 },
+    { "key": "Uncommon",     "count": 3, "prob": 1.0 },
+    { "key": "Reverse Holo", "count": 1, "prob": 1.0 },
+    { "key": "ACE SPEC Rare", "count": 1, "prob": 0.05 },
+    { "key": "Special Illustration Rare", "count": 1, "prob": 0.011494253 },
+    { "key": "Hyper Rare",   "count": 1, "prob": 0.005319149 },
+    { "key": "Illustration Rare", "count": 1, "prob": 0.076923077 },
+    { "key": "Rare",         "count": 1, "prob": 1.0 },
+    { "key": "Double Rare",  "count": 1, "prob": 0.2 },
+    { "key": "Ultra Rare",   "count": 1, "prob": 0.066666667 }
+  ],
+  "reverseKeys": ["Reverse Holo", "ACE SPEC Rare"],
+  "specialKeys": ["Special Illustration Rare", "Hyper Rare", "Illustration Rare"],
+  "rareKeys":    ["Ultra Rare", "Double Rare"]
+}

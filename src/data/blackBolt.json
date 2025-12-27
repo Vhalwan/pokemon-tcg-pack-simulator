@@ -1,0 +1,29 @@
+{
+  "slots": [
+    { "key": "Common", "count": 4, "prob": 1.0 },
+    { "key": "Uncommon", "count": 3, "prob": 1.0 },
+    { "key": "Reverse Holo", "count": 1, "prob": 0.633333333 },
+    { "key": "Poke Ball", "count": 1, "prob": 0.333333333 },
+    { "key": "Special Illustration Rare", "count": 1, "prob": 0.0125 },
+    { "key": "Black White Rare", "count": 1, "prob": 0.002016129 },
+    { "key": "Master Ball", "count": 1, "prob": 0.052631579 },
+    { "key": "Rare", "count": 1, "prob": 1.0 },
+    { "key": "Double Rare", "count": 1, "prob": 0.2 },
+    { "key": "Ultra Rare", "count": 1, "prob": 0.058823529 },
+    { "key": "Illustration Rare", "count": 1, "prob": 0.2 }
+  ],
+  "reverseKeys": [
+    "Reverse Holo", 
+    "Poke Ball"
+  ],
+  "specialKeys": [
+    "Illustration Rare",
+    "Special Illustration Rare",
+    "Master Ball"
+  ],
+  "rareKeys": [
+    "Ultra Rare", 
+    "Double Rare",
+    "Black White Rare"
+  ]
+}
