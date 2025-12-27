@@ -23,14 +23,6 @@ A web application that simulates Pokémon TCG booster pack openings with realist
 
 ---
 
-## Demo
-
-*(Add a GIF or screenshots here. Example:)*
-
-![Pack Opening Demo](src/assets/demo.gif)
-
----
-
 ## Installation & Usage
 
 Run the following commands in your terminal to set up and run the project locally:
