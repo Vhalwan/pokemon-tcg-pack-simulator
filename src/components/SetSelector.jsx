@@ -8,7 +8,7 @@ export default function SetSelector() {
   useEffect(() => {
     async function fetchSetData() {
       const res = await fetch('https://api.pokemontcg.io/v2/sets/sv10', {
-        headers: { 'X-Api-Key': import.meta.env.VITE_POKEMON_API_KEY }, // ✅ changed to env
+        headers: { 'X-Api-Key': import.meta.env.VITE_POKEMON_API_KEY },
       });
       const { data } = await res.json();
       setSetData(data);
